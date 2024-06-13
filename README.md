@@ -30,5 +30,5 @@ The application follows a simple architecture:
 - `Search.js`: Component for searching and displaying Quran verses.
 
 ## Setup Instructions
-download or git clone https://github.com/your-username/quran-search.git in VSC or other program, then run in terminal 'cd quran-search', then run 'npm install' then run 'npm start' and it will make a local server to use the website.
+download or git clone https://github.com/S2Ahmad/quran-search in VSC or other program, then run in terminal 'cd quran-search', then run 'npm install' then run 'npm start' and it will make a local server to use the website.
 
